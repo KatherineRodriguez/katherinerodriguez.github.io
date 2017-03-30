@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 143,
+    "uniqCompNum": 144,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -3303,7 +3303,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/qAxbEWK932I?rel=0&showinfo=0&autoplay=0&loop=0",
+              "src": "https://www.youtube.com/watch?v=Ue-gWa6U1MU",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -3683,7 +3683,12 @@
             "Theme"
           ],
           "_name": "msg-box4",
-          "_anchor": "msg-box4-3x",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box4-3z",
           "_params": {
             "imageSize": 50,
             "paddingTop": "1",
@@ -3712,7 +3717,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/qAxbEWK932I?rel=0&showinfo=0&autoplay=0&loop=0",
+              "src": "https://www.youtube.com/watch?v=Ue-gWa6U1MU",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -3725,12 +3730,7 @@
           },
           "title": "Welcome Video",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/channel/UCPjJNgEeBQqMIBoHrlGcVwg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My YouTube Channel</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/channel/UCPjJNgEeBQqMIBoHrlGcVwg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My YouTube Channel</a>"
         },
         {
           "_tags": [
