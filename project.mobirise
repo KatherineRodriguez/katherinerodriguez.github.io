@@ -8,7 +8,7 @@
       "styling": {
         "primaryColor": "#84d4ff",
         "secondaryColor": "#bfcecb",
-        "successColor": "#000000",
+        "successColor": "#297edc",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 144,
+    "uniqCompNum": 147,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -3529,7 +3529,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/boba-logo-170x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/new-boba-fett-logo-colored-125x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3575,7 +3575,7 @@
           },
           "title": "I'm Katherine Rodriguez.",
           "text": "Welcome to my website! I am a student enrolled at Miami Arts Studio 6-12 in the Techonology Production magnet. In the future I hope to become an animator or a film editor.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Main Page.html\" data-toolbar=\"-mbrBtnMove\">Right this Way...</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"Main Page.html\" data-toolbar=\"-mbrBtnMove\">Right this Way...</a> "
         },
         {
           "_styles": {
@@ -3678,25 +3678,26 @@
           "allItem": "All"
         },
         {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
           "_styles": {
-            "H3": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
               "color": "#ffffff"
             }
           },
-          "_anchor": "msg-box4-3z",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-42",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
+            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#65c9fd",
+            "bgColor": "#102e4d",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3704,33 +3705,15 @@
             "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
+            "overlayColor": "#222",
             "inverse": true,
+            "showButtons": true,
             "showTitle": true,
-            "showText": false,
-            "showButtons": true
+            "showText": true
           },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=Ue-gWa6U1MU",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Welcome Video",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/channel/UCPjJNgEeBQqMIBoHrlGcVwg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My YouTube Channel</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">My Introduction</a>",
+          "title": "A Little Bit About Myself.",
+          "text": "My Story."
         },
         {
           "_tags": [
