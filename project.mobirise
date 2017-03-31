@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Main Page.html",
+    "currentPage": "index.html",
     "name": "Katherine Rodriguez's Website",
     "theme": {
       "name": "mobirise3",
@@ -17,13 +17,12 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
-        "isRtl": false
+        "isScrollToTopButton": false
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 150,
-    "versionPublish": "3.12.1",
+    "uniqCompNum": 151,
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -3300,7 +3299,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://youtu.be/y-nEqQEqUIo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My Story</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://youtu.be/zFsljjUap18\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My Story</a>",
           "title": "A Little Bit About Myself.",
           "text": "My Introduction Video."
         },
@@ -3676,7 +3675,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-44",
+          "_anchor": "msg-box2-46",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -3697,7 +3696,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://youtu.be/y-nEqQEqUIo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My Story</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://youtu.be/zFsljjUap18\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My Story</a>",
           "title": "A Little Bit About Myself.",
           "text": "My Introduction Video."
         },
