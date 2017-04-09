@@ -584,15 +584,6 @@ h6,
   color: #a0a0a0;
 }
 
-#contacts3-3o STRONG {
-  color: #6bccff;
-}
-#contacts3-3o H4 {
-  color: #6bccff;
-}
-#contacts3-3o SPAN {
-  color: #ffffff;
-}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -671,6 +662,15 @@ h6,
 #header3-3g H3 {
   color: #ffffff;
 }
+#contacts3-3o STRONG {
+  color: #6bccff;
+}
+#contacts3-3o H4 {
+  color: #6bccff;
+}
+#contacts3-3o SPAN {
+  color: #ffffff;
+}
 
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -823,6 +823,12 @@ h6,
 }
 #menu-0 .btn {
   font-size: 13px;
+}
+#msg-box2-47 .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-47 .mbr-section-subtitle {
+  color: #a0a0a0;
 }
 #contacts3-32 STRONG {
   color: #6bccff;
