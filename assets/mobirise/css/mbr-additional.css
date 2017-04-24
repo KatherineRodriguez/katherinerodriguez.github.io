@@ -1460,12 +1460,6 @@ h6,
 #msg-box2-47 .mbr-section-subtitle {
   color: #a0a0a0;
 }
-#msg-box2-4h .mbr-section-title {
-  color: #fff;
-}
-#msg-box2-4h .mbr-section-subtitle {
-  color: #a0a0a0;
-}
 #contacts3-32 STRONG {
   color: #6bccff;
 }
@@ -1473,5 +1467,92 @@ h6,
   color: #6bccff;
 }
 #contacts3-32 SPAN {
+  color: #ffffff;
+}
+
+#menu-4j .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-4j .navbar-caption {
+  color: #ffffff;
+}
+#menu-4j .navbar-toggler {
+  color: #ffffff;
+}
+#menu-4j .link,
+#menu-4j .dropdown-item {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+}
+#menu-4j .link {
+  font-size: 0.9rem;
+}
+#menu-4j .dropdown-item,
+#menu-4j .nav-dropdown-sm .link {
+  font-size: 0.975rem;
+}
+#menu-4j .link:hover,
+#menu-4j .dropdown-item:hover,
+#menu-4j .link:focus,
+#menu-4j .dropdown-item:focus {
+  color: #84d4ff;
+}
+#menu-4j .link[aria-expanded="true"],
+#menu-4j .dropdown-menu {
+  background: #2e6bb0;
+}
+#menu-4j .nav-dropdown-sm .link:focus,
+#menu-4j .nav-dropdown-sm .link:hover,
+#menu-4j .nav-dropdown-sm .dropdown-item:focus,
+#menu-4j .nav-dropdown-sm .dropdown-item:hover {
+  background: #377ccb!important;
+}
+#menu-4j .navbar,
+#menu-4j .nav-dropdown-sm,
+#menu-4j .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-4j .nav-dropdown-sm .dropdown-menu {
+  background: #4384ce;
+}
+#menu-4j .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-4j .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-4j .bg-color.transparent.opened .link:hover,
+#menu-4j .bg-color.transparent.opened .link:focus {
+  color: #84d4ff;
+}
+#menu-4j .link[aria-expanded="true"],
+#menu-4j .dropdown-item[aria-expanded="true"] {
+  color: #84d4ff!important;
+}
+#menu-4j.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-4j .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-4j .close-icon::before,
+#menu-4j .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-4j .btn {
+  font-size: 13px;
+}
+#msg-box2-4l .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-4l .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#contacts3-4k STRONG {
+  color: #6bccff;
+}
+#contacts3-4k H4 {
+  color: #6bccff;
+}
+#contacts3-4k SPAN {
   color: #ffffff;
 }
